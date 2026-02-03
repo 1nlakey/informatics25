@@ -1,0 +1,15 @@
+{
+  "name": "informatics25",
+  "version": "1.0.0",
+  "description": "Simple attendance/quiz/messages server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0"
+  }
+}
